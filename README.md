@@ -20,5 +20,5 @@ This bot uses pyrogram library to communicate with Telegram amd MongoDB for data
 
 ## Edited by
 
-[![KUSHAL HK](https://www.github.com/button.svg)](https://GitHub.com/Kushal)
+[![KUSHAL HK](https://www.github.com/images/button.svg)](https://GitHub.com/Kushal)
 
