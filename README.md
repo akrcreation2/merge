@@ -10,9 +10,7 @@ This bot uses pyrogram library to communicate with Telegram amd MongoDB for data
 
 ## Deploy to Heroku
 
-<a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kushalhk/merge)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kushalhk/merge)
 
 ## Deploy to Koyeb
 
