@@ -18,5 +18,7 @@ This bot uses pyrogram library to communicate with Telegram amd MongoDB for data
 
 ## Deploy to Railway
 
-🙏 create button your self
+## Edited by
+
+[![KUSHAL HK](https://www.github.com/button.svg)](https://GitHub.com/Kushal)
 
